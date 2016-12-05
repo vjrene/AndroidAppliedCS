@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week02ScarnesDice</string>
+    <string name="action_settings">Settings</string>
+
+    //score
+    <string name="userScore">null</string>
+    <string name="compScore">null</string>
+    <string name="scoreStatementxml">"Your score: " + userScore + ". Computer score: " + compScore</string>
+</resources>

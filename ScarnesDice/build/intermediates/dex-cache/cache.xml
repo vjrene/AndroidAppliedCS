@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_6c03509238f9bf439715fe9a59164e9b3fe57b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d12c6d8e86dba99d4434cafd30b18be05aabc4cf">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1d67d69bc2e9b982dfb86545f931dc7dd735af07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_97a24b6a5796e21553eb23c82869cb8d9feaeb6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_13cc3d92b50df5c4473ef73a2ae5971817a7b798/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_fcebbace4925607a0f6bdb71c3ecbf79c00db8a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="653316366d27556d3887b52cd5de93844c3fc1e9">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1b65d840af093e77a364f8f05600f9d8a3e0c410/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_4b3640fc39db62450c136c4dd028d84b9ed5861f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7bbc05d2a92ef4c85b85971a0805446a9594c53a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7cafddf638b262356f34736c6aa3915dceae668a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cd6e5d1c977be9046aedbd54b0f630e891144294/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d0939edc0aa1e33dbe1578945b09ace372703f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7e3382064ab03fbd62c369b6f78ee3f6e0a15022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_dc275e97ef2c41e162b93ea372302501cb4ec298/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_4585f79e2cf45fa661825995480f04470f50ebd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_b43627dd63721402beef78dc6c4d86ff3ddc40aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_48353244fd1b5b309f1306d6f1b1fcae38efc545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_126d5b492e6c7cec77e6ffccb95f932b7d779274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_aab41d3a57ee577857794651c69de7bcf1e8b356/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Parallel/Desktop/android/Week02ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_71fc308af6f226a3636c89fcba952d7caae13608/classes.dex" />
+    </item>
+
+</items>
