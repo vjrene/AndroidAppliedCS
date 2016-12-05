@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_0b0ddfefe4db889070bf4fa730200907e2566e5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_0df2e174b42427f6ccb14bb34c30ff42c7f031b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_bb7393a184e00edbdee24f4fe7c9a5c391b85e19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c46268b428c3629465966be36315154862f8c6bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c85098e0e03727d03d95be4d75d93c7bfb8023fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_51850db26597ac7c8935520f0cba3b14a13e3c76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_22065c72e28a0278f46b7c74298037c5bbf5b714/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_49c9e9614d09d8d8829b2e446e287bd7ce6255df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_de3fe70cf7555ea43a6e8f4453309420f12ca1fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8f303131c3e76c28d8ab1714d92381571401f1d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_c3b3226b21dc4bf4cd6ec2d55d5b5a05fcd49d9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_3fbe9231ddbba7b2aba2834d2c122871e1eae13c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="92fe94e18a7f666c699714f0882577a11c6745ba">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4f981d49473d779daeeb6a73aa9154767cb4ae9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_c83c29ccdf2198cd304a83d49cac6852ca9d03e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_7e3bc73c8d09bd95083a6f6e3b0cb75dedce6173/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="97e2773f0d19b6c70a5e154a8f62700ac7a30365">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_04cd4b9f705c87760ce724de05c522e4dd1d15d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Parallel/Desktop/android/Code Sprint/rps/RockPaperScissors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_dee1e08d6a0dd682df74f2682367052c26b984f8/classes.dex" />
+    </item>
+
+</items>
