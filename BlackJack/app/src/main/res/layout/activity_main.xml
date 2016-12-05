@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.parallel.codesprint.MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User Score: "
+            android:id="@+id/uScore"
+            android:layout_weight="0.06"
+            android:textSize="18sp" />
+
+        <TextView
+            android:text="Computer Score: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cScore"
+            android:layout_weight="0.06"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="109dp">
+
+            <ImageView
+                android:layout_width="244dp"
+                android:layout_height="98dp"
+                app:srcCompat="@mipmap/ic_launcher"
+                android:id="@+id/imageView" />
+
+            <TextView
+                android:text="Dealt Card"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/dealtCard"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@mipmap/ic_launcher"
+                android:id="@+id/uDeck"
+                android:layout_weight="0.89" />
+
+            <TextView
+                android:text="User Deck"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/uDeckText"
+                android:layout_weight="0.09"
+                android:textAlignment="center" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="62dp"
+                android:weightSum="1">
+
+                <Button
+                    android:text="Draw"
+                    android:layout_width="68dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/draw"
+                    android:layout_weight="0.45"
+                    android:onClick="draw"/>
+
+                <Button
+                    android:text="Challenge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/challenge"
+                    android:layout_weight="0.12"
+                    android:onClick="challenge"/>
+
+                <Button
+                    android:text="Reset"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/reset"
+                    android:layout_weight="0.12"
+                    android:onClick="reset"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
